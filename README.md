@@ -3,7 +3,9 @@
 <!-- ============================================================================== -->
 <!-- ANIMATED HEADER WAVE BANNER                                                    -->
 <!-- ============================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,25:090e1a,65:0e1a2e,100:00ff66&height=240&section=header&text=SCITBOSS%20FORENSIC%20PRO&fontSize=44&fontColor=00ff66&fontAlignY=36&desc=ADVANCED%20ANDROID%20FORENSIC%20%26%20SECURITY%20ANALYZER%20PRO&descAlignY=60&descSize=16&descColor=00e5ff" width="100%" alt="SCITBOSS Header"/>
+<p align="center">
+  <img src="assets/header_banner.svg" width="100%" alt="SCITBOSS FORENSIC PRO Header Banner"/>
+</p>
 
 <!-- ============================================================================== -->
 <!-- REAL-TIME ANIMATED TYPING SVG BANNER                                           -->
@@ -357,6 +359,8 @@ All investigative actions require physical possession and user authorization on 
 </p>
 
 <!-- Animated Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,35:0e1a2e,70:090e1a,100:050811&height=130&section=footer" width="100%" alt="SCITBOSS Footer"/>
+<p align="center">
+  <img src="assets/footer_banner.svg" width="100%" alt="SCITBOSS FORENSIC PRO Footer Banner"/>
+</p>
 
 </div>
