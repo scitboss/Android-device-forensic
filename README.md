@@ -264,32 +264,11 @@ Ensure you have **Python 3.8+** installed:
 git clone https://github.com/scitboss/Android-device-forensic.git
 cd Android-device-forensic
 
-# Run immediately (Zero pip install required!)
+# Run immediately
 python scitboss_android_forensic_pro.py
 ```
 
 ---
-
-## 🔨 Building the Standalone Windows Executable
-
-To compile the single-file executable with PyInstaller, use the pre-configured command bundling all dependencies and drivers:
-
-```powershell
-# Install PyInstaller if not already installed
-pip install pyinstaller
-
-# Build 100% self-contained standalone executable
-python -m PyInstaller --noconfirm --onefile --windowed `
-  --add-data "platform-tools;platform-tools" `
-  --add-data "usb_driver;usb_driver" `
-  --name SCITBOSS_ANDROID_FORENSIC_PRO `
-  scitboss_android_forensic_pro.py
-```
-
-The compiled binary will be generated at:
-```text
-dist\SCITBOSS_ANDROID_FORENSIC_PRO.exe (~28.1 MB)
-```
 
 ---
 
