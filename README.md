@@ -1,11 +1,20 @@
 <div align="center">
 
 <!-- ============================================================================== -->
-<!-- ANIMATED HEADER WAVE BANNER                                                    -->
+<!-- ANIMATED CYBER HEADER BANNER (100% GITHUB CLOUD HOSTED)                        -->
 <!-- ============================================================================== -->
-<p align="center">
-  <img src="assets/header_banner.svg" width="100%" alt="SCITBOSS FORENSIC PRO Header Banner"/>
-</p>
+<a href="https://github.com/scitboss">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="SCITBOSS Cyber Animation Banner"/>
+</a>
+
+<br/><br/>
+
+<!-- ============================================================================== -->
+<!-- ANIMATED NEON ORBITRON TITLE BANNER                                            -->
+<!-- ============================================================================== -->
+<a href="https://github.com/scitboss">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=860&height=75&lines=SCITBOSS+FORENSIC+PRO;ANDROID+FORENSIC+%26+SECURITY+ANALYZER;100%25+STANDALONE+WINDOWS+EXE;DEVELOP+BY+SCITBOSS" alt="SCITBOSS FORENSIC PRO" />
+</a>
 
 <!-- ============================================================================== -->
 <!-- REAL-TIME ANIMATED TYPING SVG BANNER                                           -->
@@ -358,9 +367,9 @@ All investigative actions require physical possession and user authorization on 
   <i>Advanced Cybersecurity Research • Digital Forensics • Ethical Tooling</i>
 </p>
 
-<!-- Animated Footer Wave Banner -->
-<p align="center">
-  <img src="assets/footer_banner.svg" width="100%" alt="SCITBOSS FORENSIC PRO Footer Banner"/>
-</p>
+<!-- Animated Footer Banner -->
+<a href="https://github.com/scitboss">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="SCITBOSS Footer"/>
+</a>
 
 </div>
