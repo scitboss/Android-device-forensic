@@ -20,8 +20,7 @@
 <!-- REAL-TIME ANIMATED TYPING SVG BANNER                                           -->
 <!-- ============================================================================== -->
 <a href="https://github.com/scitboss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00FF66&center=true&vCenter=true&width=800&lines=⚡+SCITBOSS+ANDROID+FORENSIC+%26+SECURITY+ANALYZER+PRO;🔌+Instant+USB+Hotplug+Auto-Detection+(1.8s+Pulse);🛡️+10-Point+Zero-Trust+Security+Audit+%26+0-100+Scoring;🧬+7-Vector+Heuristic+Malware+%26+Trojan+Indicator+Engine;💻+100%25+Standalone+Windows+EXE+(28.1+MB)+%7C+No+Python+Needed!;🌐+Court-Admissible+Interactive+Cyber+Dark+HTML+Dossiers;👑+DEVELOP+BY+SCITBOSS+%E2%80%94+github.com%2Fscitboss" alt="Typing SVG" />
-</a>
+  
 
 <br/>
 
