@@ -10,9 +10,7 @@ GITHUB: https://github.com/scitboss
 
 COMPATIBILITY:
 - Windows 10 / Windows 11
-- Python 3.8+ (No external third-party dependencies required; uses Tkinter & built-ins)
-- Standalone Windows Executable compatible via PyInstaller:
-    pyinstaller --onefile --windowed --name SCITBOSS_ANDROID_FORENSIC_PRO scitboss_android_forensic_pro.py
+- Python 3.8+
 
 LEGAL & ETHICAL NOTICE:
 This tool is intended strictly for authorized security auditing, ethical hacking,
